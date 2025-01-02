@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Devops<br>🎯 Goals: Learn, Innovate, Impact<br>🎲 Fun fact: Software engineers often spend more time reading and understanding code than writing it from scratch</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Devops and ML<br>🎯 Goals: Learn, Innovate, Impact</p>
 
 ###
 
