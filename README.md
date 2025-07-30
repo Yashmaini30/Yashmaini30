@@ -14,17 +14,21 @@
 
 ### <h2 align="left">🚀 Featured Projects</h2>
 
-**🛡️ [CopyGuard - AI Code Detection Platform](https://github.com/Yashmaini30/CopyGuard/)**
-- Serverless AI-powered code detection using AWS Bedrock (Claude v2)
-- <2s response time, ~99.9% availability
-- Full IaC with Terraform, monitored via Grafana
-- [📖 Read the Blog](https://ai-code-detector-with-aws-bedrock.hashnode.dev/building-copyguard-a-production-ready-ai-code-detection-platform-on-aws)
+**🛡️ [CopyGuard – AI Code Detection Platform](https://github.com/Yashmaini30/CopyGuard/)**
 
-**🔒 [ThreatMatrix - MLOps Network Security Platform](https://github.com/Yashmaini30/ThreatMatrix-Predictor)**
-- End-to-end ML pipeline for network intrusion detection
-- Containerized with Docker, CI/CD via GitHub Actions
-- Deployed on AWS EC2 with <15ms latency
-- [📖 Read the Blog](https://mlops-threat-detection-platform.hashnode.dev/building-a-production-ready-mlops-platform-for-network-security-threat-detection)
+* Serverless AI-powered code detection using AWS Bedrock (Claude v2)
+* <2s response time, \~99.9% availability
+* Full IaC with Terraform, monitored via Grafana
+* 📖 [Read the Blog](https://ai-code-detector-with-aws-bedrock.hashnode.dev/building-copyguard-a-production-ready-ai-code-detection-platform-on-aws)
+* 🎥 [Watch Demo](https://vimeo.com/1102706536)
+
+**🔒 [ThreatMatrix – MLOps Network Security Platform](https://github.com/Yashmaini30/ThreatMatrix-Predictor)**
+
+* End-to-end ML pipeline for network intrusion detection
+* Containerized with Docker, CI/CD via GitHub Actions
+* Deployed on AWS EC2 with <15ms latency
+* 📖 [Read the Blog](https://mlops-threat-detection-platform.hashnode.dev/building-a-production-ready-mlops-platform-for-network-security-threat-detection)
+* 🎥 [Watch Demo](https://vimeo.com/1102706272)
 
 **🍅 [Tomato Disease Detection - 97.23% Accuracy](https://github.com/Yashmaini30/Tomato_Leaf_Disease_Detection)**
 - Optimized Xception model with Bayesian optimization
