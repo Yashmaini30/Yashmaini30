@@ -4,7 +4,7 @@
 
 ### <h2 align="left">About me</h2>
 
-### <p align="left">🔬 Deep Learning Research at GGSIPU-USAR (Medical & Agricultural Imaging)<br>📊 Published 2 IEEE papers on image classification with 97%+ accuracy<br>🚀 Building production-ready ML systems with AWS & MLOps<br>📚 Currently learning Advanced MLOps, Model Deployment & System Design<br>🎯 Goals: Innovate in AI/ML, Deploy Scalable Solutions, Research Impact<br>🏆 Top 11% globally on LeetCode (400+ problems solved)<br>✅ GATE 2025 Qualified (Data Science & AI) - Top 8% nationwide</p>
+### <p align="left">🔬 Deep Learning Research at GGSIPU-USAR (Medical & Agricultural Imaging)<br>📊 Published 2 IEEE papers on image classification with 97%+ accuracy<br>🚀 Building production-ready ML systems with AWS & MLOps<br>📚 Currently learning Advanced MLOps, Model Deployment & System Design<br>🎯 Goals: Innovate in AI/ML, Deploy Scalable Solutions, Research Impact<br>🏆 Top 11% globally on LeetCode (550+ problems solved)<br>✅ GATE 2025 Qualified (Data Science & AI) - Top 8% nationwide</p>
 
 ### <h2 align="left">🔗 Connect with me</h2>
 
